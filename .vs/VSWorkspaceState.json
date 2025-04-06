@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\src",
+    "\\backend\\src\\main",
+    "\\backend\\src\\main\\java",
+    "\\backend\\src\\main\\java\\com",
+    "\\backend\\src\\main\\java\\com\\example",
+    "\\backend\\src\\main\\java\\com\\example\\wms",
+    "\\frontend"
+  ],
+  "SelectedNode": "\\backend\\src\\main\\java\\com\\example\\wms",
+  "PreviewInSolutionExplorer": false
+}
